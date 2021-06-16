@@ -1,0 +1,24 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    float: left;
+    margin-top: 0;
+    font-size: 30px;
+
+}
+
+.note{
+    color: black;
+    font-size: 20px;
+    font-style: oblique;
+
+}
+
+canvas{
+    margin:30px;
+    border: 5px white ridge;
+}
